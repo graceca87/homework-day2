@@ -62,7 +62,7 @@ h1{
 #create-account-button{
     display: flex;
     flex-direction: column;
-    width: 40%;
+    width: 500px;
     margin: 0px;
 }
 #top-image{
@@ -74,15 +74,13 @@ hr{
 }
 #container-2{
     display: flex;
-    border: 2px solid black;
-    justify-content: space-between;
-    width: 300px;
-    margin-left: 37%;
+    justify-content: center;
+    gap: 10px;
     font-size:x-small;
-    
 }
 a{
     color: rgb(7, 102, 210);
+    text-decoration: none;
  
 }
 footer{
